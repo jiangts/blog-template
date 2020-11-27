@@ -1,13 +1,15 @@
 Fork of [Reverie](https://github.com/amitmerchant1990/reverie), minus the fluff.
 
 My steps:
-1. update `_config.yml`
+1. fork this repo, and turn on gh-pages
+2. update `_config.yml`
   - especially the name, description, avatar (place square image in
     `images/...`), url, and baseurl
   - optionally, edit author and footer links
-2. change the `favicon.ico`
-3. update the 2 pages: `_pages/about.md` and `_pages/resources.md`.
-4. run `deploy.sh`
+3. change the `favicon.ico`
+4. update the 2 pages: `_pages/about.md` and `_pages/resources.md`.
+5. run `deploy.sh`
+6. change the Github description to your new github page url
 
 ---
 
